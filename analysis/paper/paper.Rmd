@@ -59,6 +59,7 @@ knitr::opts_chunk$set(
 
 This is a replication of figure 2A from [@hirt2017] (Fig. \@ref(fig:fig2a)).
 
+
 # Background
 
 # Methods
